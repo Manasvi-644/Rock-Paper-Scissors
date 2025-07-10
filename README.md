@@ -25,7 +25,9 @@
 <h3>🛠 Technologies Used</h3>
 <p>
 HTML5 — Structure of the game
+    
 CSS3 — Styling and basic animations
+
 JavaScript (Vanilla) — Game logic and DOM manipulation </p>
 <hr>
 
