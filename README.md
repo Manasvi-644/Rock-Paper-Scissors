@@ -1,5 +1,6 @@
-# Rock-Paper-Scissors
+<h1>Rock-Paper-Scissors</h1>
 
+<br>
 <p>A simple web-based Stone Paper Scissors game (also known as Rock Paper Scissors) built using HTML, CSS, and JavaScript.Play against the computer and enjoy a responsive, interactive UI.</p>
 
 
